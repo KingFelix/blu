@@ -3,10 +3,10 @@
   <channel>
     <title>Blu | A Jekyll blog for freelance</title>
     <description>A blog template for freelance and professionals, build with Jekyll.</description>
-    <link>http://www.jacoporabolini.com/mars/blu/</link>
-    <atom:link href="http://www.jacoporabolini.com/mars/blu/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 15 Sep 2016 06:50:48 +0200</pubDate>
-    <lastBuildDate>Thu, 15 Sep 2016 06:50:48 +0200</lastBuildDate>
+    <link>http://www.jacoporabolini.com/mars/</link>
+    <atom:link href="http://www.jacoporabolini.com/mars/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 15 Sep 2016 06:55:05 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2016 06:55:05 +0200</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -55,8 +55,8 @@
 
 </description>
         <pubDate>Fri, 29 Jan 2016 19:11:51 +0100</pubDate>
-        <link>http://www.jacoporabolini.com/mars/blu/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/blu/welcome-to-jekyll/</guid>
+        <link>http://www.jacoporabolini.com/mars/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/welcome-to-jekyll/</guid>
         
         
         <category>test</category>
@@ -123,8 +123,8 @@
 
 </description>
         <pubDate>Fri, 29 Jan 2016 19:11:51 +0100</pubDate>
-        <link>http://www.jacoporabolini.com/mars/blu/welcome-2/</link>
-        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/blu/welcome-2/</guid>
+        <link>http://www.jacoporabolini.com/mars/welcome-2/</link>
+        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/welcome-2/</guid>
         
         
         <category>update</category>
@@ -141,8 +141,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est ab, officiis excep
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, quam, ipsam! Enim, maiores, dicta laudantium repellat similique aut voluptas, modi quibusdam tempore quo dolorum. Consequuntur asperiores tenetur ab, suscipit praesentium!&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Jan 2016 19:11:51 +0100</pubDate>
-        <link>http://www.jacoporabolini.com/mars/blu/welcome-5/</link>
-        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/blu/welcome-5/</guid>
+        <link>http://www.jacoporabolini.com/mars/welcome-5/</link>
+        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/welcome-5/</guid>
         
         
         <category>jekyll</category>
@@ -158,8 +158,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est ab, officiis excep
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis tempora quidem iusto, magnam obcaecati voluptatem esse excepturi enim. Provident, qui ut. Vel ad voluptatem corrupti consectetur magnam, blanditiis, ducimus nobis.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Jan 2016 19:11:51 +0100</pubDate>
-        <link>http://www.jacoporabolini.com/mars/blu/welcome-4/</link>
-        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/blu/welcome-4/</guid>
+        <link>http://www.jacoporabolini.com/mars/welcome-4/</link>
+        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/welcome-4/</guid>
         
         
         <category>jekyll</category>
@@ -176,8 +176,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est ab, officiis excep
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, aperiam nam reprehenderit nisi doloribus. Temporibus modi quo ducimus omnis possimus, eum repellendus, quaerat maiores veritatis, at sunt ut odio perspiciatis?&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Jan 2016 19:11:51 +0100</pubDate>
-        <link>http://www.jacoporabolini.com/mars/blu/welcome-3/</link>
-        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/blu/welcome-3/</guid>
+        <link>http://www.jacoporabolini.com/mars/welcome-3/</link>
+        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/welcome-3/</guid>
         
         
         <category>jekyll</category>
