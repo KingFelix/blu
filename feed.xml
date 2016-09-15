@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blu | A Jekyll blog for freelance</title>
+    <description>A blog template for freelance and professionals, build with Jekyll.</description>
+    <link>http://www.jacoporabolini.com/mars/</link>
+    <atom:link href="http://www.jacoporabolini.com/mars/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 15 Sep 2016 06:38:28 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2016 06:38:28 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;uno&lt;/li&gt;
+  &lt;li&gt;due&lt;/li&gt;
+  &lt;li&gt;tre&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;primo&lt;/li&gt;
+  &lt;li&gt;secondo&lt;/li&gt;
+  &lt;li&gt;terzo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;title-test&quot;&gt;Title test&lt;/h2&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.vrgamer.it/wp-content/uploads/2016/03/Mars.jpg&quot; alt=&quot;Mars&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi consequuntur non, quisquam? Ad vero a dicta commodi dolore repellat beatae hic veritatis tenetur, doloremque sunt, soluta dolor cum pariatur facere!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;test&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;double test&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;another-title&quot;&gt;Another title&lt;/h3&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 29 Jan 2016 19:11:51 +0100</pubDate>
+        <link>http://www.jacoporabolini.com/mars/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/welcome-to-jekyll/</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll! 2</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos eaque laboriosam, inventore natus officiis dolorem, maxime quos modi facilis temporibus, eos impedit recusandae. Reprehenderit velit, voluptatibus incidunt, molestias magni eius.&lt;/p&gt;
+
+&lt;h2 id=&quot;h2-title-test&quot;&gt;h2 title test&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem qui, aperiam corporis iure dolorum odit? Libero quasi, quidem explicabo pariatur asperiores, eaque, tempore nemo nesciunt laboriosam minima saepe placeat temporibus.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae odit ipsum pariatur libero harum, magnam delectus consequatur natus debitis, sequi laborum dicta quod officiis sapiente? Dignissimos dolorem beatae velit, aspernatur.&lt;/p&gt;
+
+&lt;div&gt;
+  	&lt;a href=&quot;#&quot; name=&quot;jekyll&quot;&gt;jekyll&lt;/a&gt;
+  	  &lt;ul&gt;
+  	  
+  	    
+  	      &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+  	    
+  	  
+  	    
+  	      &lt;li&gt;&lt;a href=&quot;/welcome-5/&quot;&gt;Welcome to Jekyll! 5&lt;/a&gt;&lt;/li&gt;
+  	    
+  	      &lt;li&gt;&lt;a href=&quot;/welcome-4/&quot;&gt;Welcome to Jekyll! 4&lt;/a&gt;&lt;/li&gt;
+  	    
+  	      &lt;li&gt;&lt;a href=&quot;/welcome-3/&quot;&gt;Welcome to Jekyll! 3&lt;/a&gt;&lt;/li&gt;
+  	    
+  	  
+  	  &lt;/ul&gt;
+  &lt;/div&gt;
+
+&lt;div&gt;
+  	&lt;a href=&quot;#&quot; name=&quot;update&quot;&gt;update&lt;/a&gt;
+  	  &lt;ul&gt;
+  	  
+  	    
+  	      &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+  	    
+  	  
+  	    
+  	      &lt;li&gt;&lt;a href=&quot;/welcome-2/&quot;&gt;Welcome to Jekyll! 2&lt;/a&gt;&lt;/li&gt;
+  	    
+  	  
+  	  &lt;/ul&gt;
+  &lt;/div&gt;
+
+&lt;div&gt;
+  	&lt;a href=&quot;#&quot; name=&quot;test&quot;&gt;test&lt;/a&gt;
+  	  &lt;ul&gt;
+  	  
+  	    
+  	      &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+  	    
+  	  
+  	    
+  	      &lt;li&gt;&lt;a href=&quot;/welcome-to-jekyll/&quot;&gt;Welcome to Jekyll!&lt;/a&gt;&lt;/li&gt;
+  	    
+  	  
+  	  &lt;/ul&gt;
+  &lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 29 Jan 2016 19:11:51 +0100</pubDate>
+        <link>http://www.jacoporabolini.com/mars/welcome-2/</link>
+        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/welcome-2/</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll! 5</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio vel quasi commodi obcaecati ex modi quaerat sint dolor deleniti voluptates ducimus, cum enim expedita, fugiat libero, impedit suscipit. Quam, eligendi?
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est ab, officiis excepturi repellat dolorum necessitatibus. Consectetur tempora provident, dolore hic, alias delectus perspiciatis quasi aliquam cumque dolores aliquid, temporibus vel!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, amet laudantium reiciendis non aspernatur recusandae iste atque neque laborum consequuntur itaque tempore a animi explicabo quo veniam cumque dolorem et.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, quam, ipsam! Enim, maiores, dicta laudantium repellat similique aut voluptas, modi quibusdam tempore quo dolorum. Consequuntur asperiores tenetur ab, suscipit praesentium!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 19:11:51 +0100</pubDate>
+        <link>http://www.jacoporabolini.com/mars/welcome-5/</link>
+        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/welcome-5/</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll! 4</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi voluptatum, libero sint fugit dolor saepe reiciendis quidem voluptatibus beatae dignissimos debitis numquam sed quis modi, pariatur tempora nulla fugiat expedita.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus eum hic adipisci veniam dicta cum, ut, reprehenderit ducimus, sed tenetur beatae debitis voluptate temporibus deleniti dolorem. Magnam est amet hic.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis tempora quidem iusto, magnam obcaecati voluptatem esse excepturi enim. Provident, qui ut. Vel ad voluptatem corrupti consectetur magnam, blanditiis, ducimus nobis.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 19:11:51 +0100</pubDate>
+        <link>http://www.jacoporabolini.com/mars/welcome-4/</link>
+        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/welcome-4/</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll! 3</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic ipsam incidunt repellendus iste soluta veniam. Unde pariatur explicabo expedita quaerat hic obcaecati, iste neque deleniti consequatur facilis, placeat, quas quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus sunt sint tempora vero, at iure vitae voluptates neque voluptatibus facere fugiat alias quos eaque temporibus provident fuga perferendis exercitationem, praesentium.&lt;/p&gt;
+
+&lt;h3 id=&quot;h3-title&quot;&gt;h3 title&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus iusto officiis libero cum minus unde inventore omnis possimus molestias, illo, vel praesentium dolores iure repellat odit explicabo non recusandae qui!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, aperiam nam reprehenderit nisi doloribus. Temporibus modi quo ducimus omnis possimus, eum repellendus, quaerat maiores veritatis, at sunt ut odio perspiciatis?&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 19:11:51 +0100</pubDate>
+        <link>http://www.jacoporabolini.com/mars/welcome-3/</link>
+        <guid isPermaLink="true">http://www.jacoporabolini.com/mars/welcome-3/</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>

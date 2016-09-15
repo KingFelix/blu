@@ -1,0 +1,20 @@
+{
+  "name": "mars",
+  "version": "1.0.0",
+  "description": "A Jekyll blog theme",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jekyll"
+  ],
+  "author": "Jacopo Rabolini",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "lodash": "^4.6.1"
+  }
+}
